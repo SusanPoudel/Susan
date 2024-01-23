@@ -529,6 +529,12 @@ section .container {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+swiper-container svg {
+  height: 30px;
+  width: 60px;
+  transition: all 0.4s ease-in-out;
+  cursor: pointer;
+}
 .about-me .content h3 {
   font-weight: 700;
   font-size: 26px;
