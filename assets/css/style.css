@@ -535,6 +535,10 @@ swiper-container svg {
   transition: all 0.4s ease-in-out;
   cursor: pointer;
 }
+.about-me{
+  text-align: justify;
+}
+
 .about-me .content h3 {
   font-weight: 700;
   font-size: 26px;
@@ -772,6 +776,7 @@ swiper-container svg {
   margin-top: -2px;
   border-left: 2px solid rgba(255, 255, 255, 0.2);
   position: relative;
+  text-align: justify;
 }
 
 .resume .resume-item h4 {
@@ -792,6 +797,7 @@ swiper-container svg {
   font-weight: 600;
   margin-bottom: 10px;
 }
+
 
 .resume .resume-item ul {
   padding-left: 20px;
